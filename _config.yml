@@ -1,18 +1,18 @@
 # Site wide configuration
 
-title: Site Title
+title: Madisson Goldhawk
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Madisson Goldhawk
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "An information professional with an interest in user experience, information literacy, and community engagement."
+  email: maddiegoldhawk@gmail.com
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
-  linkedin: #username
+  twitter: MaddieGoldhawk
+  linkedin: linkedin.com/in/madisson-goldhawk-5501bb158
   github: #username
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
