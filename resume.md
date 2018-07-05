@@ -4,6 +4,7 @@ layout: resume
 ## Currently
 
 Library Assistant IV in Research and Instructional Services at Western University
+
 August 2016 – Present
 
 Provided comprehensive reference services to the user community at the research help desk and by phone, email, virtual reference chat service, and in consultation appointments.
