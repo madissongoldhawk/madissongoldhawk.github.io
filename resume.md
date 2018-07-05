@@ -5,13 +5,14 @@ layout: resume
 
 Library Assistant IV in Research and Instructional Services at Western University
 August 2016 – Present
-•	Provided comprehensive reference services to the user community at the research help desk and by phone, email, virtual reference chat service, and in consultation appointments.
-•	Provided library instruction in classroom environments and pop-up literacy sessions to support the library’s goal of achieving educational excellence.
-•	Supported the collections work of librarians by checking holdings for program reviews, and generating review files and usage statistics as needed
-•	Became chair of the Taylor Library Marketing and Social Media Team, facilitating meetings and managing workload commitments among team members.
-•	Served on the Customer Service Standing Committee, supporting the library’s mandate to deliver service excellence to library users.
-•	Served as a member of various subcommittees and working groups, including but not limited to the following: Western Libraries Social Media Team, Web Tutorials Standing Team, Virtual Reference Advisory Committee, Outreach Team, Front Line Service Assessment Working Group, Orientation Working Group, LibQual and Strategic Plan Coding Project Team, and Western Libraries Feedback Team.
-•	Participated in a wide variety of projects fundamental to the achievement of strategic priorities.
+
+Provided comprehensive reference services to the user community at the research help desk and by phone, email, virtual reference chat service, and in consultation appointments.
+Provided library instruction in classroom environments and pop-up literacy sessions to support the library’s goal of achieving educational excellence.
+Supported the collections work of librarians by checking holdings for program reviews, and generating review files and usage statistics as needed
+Became chair of the Taylor Library Marketing and Social Media Team, facilitating meetings and managing workload commitments among team members.
+Served on the Customer Service Standing Committee, supporting the library’s mandate to deliver service excellence to library users.
+Served as a member of various subcommittees and working groups, including but not limited to the following: Western Libraries Social Media Team, Web Tutorials Standing Team, Virtual Reference Advisory Committee, Outreach Team, Front Line Service Assessment Working Group, Orientation Working Group, LibQual and Strategic Plan Coding Project Team, and Western Libraries Feedback Team.
+Participated in a wide variety of projects fundamental to the achievement of strategic priorities.
 
 ## Education
 
